@@ -8,9 +8,6 @@ I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorl
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KingRainbow44&theme=darcula&show_icons=true&count_private=true">
 
-## What I Do
-- It's on the right
-
 ## Contact Me
 - [Twitter](https://twitter.com/KingRainbow44)
 - [YouTube](https://www.youtube.com/channel/UC9k7NjyMW9VCsQFPzZoyMaQ)
