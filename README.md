@@ -21,5 +21,5 @@ I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorl
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KingRainbow44&theme=darcula&show_icons=true&count_private=true">
 
-## Now Playing & GitHub Statistics
+## Spotify & GitHub
 [![Spotify](https://novatorem-kingrainbow44.vercel.app/api/spotify)](https://open.spotify.com/user/1vonzuqkgpa95207ld1lr8ebf?si=50965ed637f74637)
