@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm Magix, or KingRainbow44. I write code for better or for worse.
 I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorld/JDA).
+I also ~~simp~~ talk to Bluejay way too much, she's a cutie.
 
 "I have a friend named Bluejay who has a stranglehold on everything I do. For some reason I keep making ~~stupid~~ bets with her in hopes of some day winning. It's like a strange addiction I can't shake." -GuildedThorn
 
