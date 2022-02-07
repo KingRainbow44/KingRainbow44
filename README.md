@@ -21,4 +21,4 @@ I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorl
   - Database Infrastructure
   - RESTful APIs
 
-## Bluejay > Everything
+### Bluejay > Everything
