@@ -1,8 +1,20 @@
-### Hi there 👋
-I don't have much to put here at the moment so look at some cool GitHub statistics!
+My name is Magix but everyone knows me by my alias Kingrainbow44, I love software development and Genshin Impact, but only because im forced to.
+I have a friend named BlueJay who has a stranglehold on everything I do, for some reason I keep making bets with her in hopes of someday winning, It's like a strange addiction I can't shake.
 
-# About Me
-Hi! I'm Magix, and I write code for fun. I spent way too much time with Bluejay and listen to way too much Hikaru Nara.
+<img align="right" src="https://lanyard.cnrad.dev/api/252090676068614145?hideTimestamp=true" alt="Discord Status">
 
-# GitHub Statistics
-![Overall stats](https://github-readme-stats.vercel.app/api?username=KingRainbow44&theme=darcula&show_icons=true&count_private=true) 
+
+## Contact Me
+- [Twitter](https://twitter.com/Kingrainbow44)
+- [Youtube](https://www.youtube.com/channel/UC9k7NjyMW9VCsQFPzZoyMaQ)
+
+## Experience
+
+- Programming Languages: Java, PHP, C#, Javascript
+- Frameworks: React
+- Game Development: Packets, Server Software, Unity, User Data
+- Databases: MySQL, MariaDB, MongoDB, SQLite3
+
+## Now Playing
+
+[![Spotify](https://novatorem-kingrainbow44.vercel.app/api/spotify)](https://open.spotify.com/user/1vonzuqkgpa95207ld1lr8ebf?si=50965ed637f74637)
