@@ -20,3 +20,11 @@ I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorl
 - Backend Development
   - Database Infrastructure
   - RESTful APIs
+
+## What Do I Do?
+- I play:
+  - Genshin Impact
+  - Minecraft: Java Edition
+- I write:
+  - Stories
+  - Code
