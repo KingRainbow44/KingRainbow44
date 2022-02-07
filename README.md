@@ -13,6 +13,10 @@ I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorl
 - [YouTube](https://www.youtube.com/channel/UC9k7NjyMW9VCsQFPzZoyMaQ)
 
 ## Experience
-- Development in: Java, TS/JS, PHP & C#
-- Creating a Database Infrastructure
-- Managing (a) RESTful API(s).
+- Programming Languages
+  - Java
+  - PHP
+  - TypeScript/JavaScript
+- Backend Development
+  - Database Infrastructure
+  - RESTful APIs
