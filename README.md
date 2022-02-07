@@ -4,8 +4,6 @@ I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorl
 
 "I have a friend named Bluejay who has a stranglehold on everything I do. For some reason I keep making ~~stupid~~ bets with her in hopes of some day winning. It's like a strange addiction I can't shake." -GuildedThorn
 
-<img align="right" src="https://lanyard.cnrad.dev/api/252090676068614145?hideTimestamp=true" alt="Discord Status">
-
 ## Contact Me
 - [Twitter](https://twitter.com/KingRainbow44)
 - [YouTube](https://www.youtube.com/channel/UC9k7NjyMW9VCsQFPzZoyMaQ)
@@ -17,3 +15,5 @@ I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorl
 
 ## GitHub Statistics
 ![GitHub](https://github-readme-stats.vercel.app/api?username=KingRainbow44&theme=darcula&show_icons=true&count_private=true)
+
+<img src="https://lanyard.cnrad.dev/api/252090676068614145" alt="Discord Status">
