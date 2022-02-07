@@ -19,7 +19,7 @@ I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorl
   - Database Infrastructure
   - RESTful APIs
 
+## Spotify & GitHub
 <img align="right" src="https://novatorem-kingrainbow44.vercel.app/api/spotify">
 
-## Spotify & GitHub
 [![GitHub](https://github-readme-stats.vercel.app/api?username=KingRainbow44&theme=darcula&show_icons=true&count_private=true)
