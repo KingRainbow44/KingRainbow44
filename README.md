@@ -22,9 +22,5 @@ I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorl
   - RESTful APIs
 
 ## What Do I Do?
-- I play:
-  - Genshin Impact
-  - Minecraft: Java Edition
-- I write:
-  - Stories
-  - Code
+- I play Genshin Impact.
+- I write stories.
