@@ -10,20 +10,14 @@ I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorl
 - [Twitter](https://twitter.com/KingRainbow44)
 - [YouTube](https://www.youtube.com/channel/UC9k7NjyMW9VCsQFPzZoyMaQ)
 
-
-
-
 ## Experience
 - Programming Languages
   - Java
   - PHP
   - TypeScript/JavaScript
-- Backend Development       <img align="right" src="https://novatorem-kingrainbow44.vercel.app/api/spotify">
+- Backend Development
   - Database Infrastructure
   - RESTful APIs
 
-
-
-## Spotify & GitHub
-
-[![GitHub](https://github-readme-stats.vercel.app/api?username=KingRainbow44&theme=darcula&show_icons=true&count_private=true)
+## GitHub Statistics
+![GitHub](https://github-readme-stats.vercel.app/api?username=KingRainbow44&theme=darcula&show_icons=true&count_private=true)
