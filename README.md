@@ -22,3 +22,4 @@ I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorl
   - RESTful APIs
 
 ### Bluejay > Everything
+It goes without saying.
