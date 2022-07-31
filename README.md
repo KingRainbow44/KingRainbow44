@@ -1,9 +1,6 @@
 ### Hi there 👋
-I'm Magix, or KingRainbow44. I write code for better or for worse.
-I mainly work in Java, more specifically [JDA](https://github.com/DV8FromTheWorld/JDA).
-I also ~~simp~~ talk to Bluejay way too much, she's a cutie.
-
-"I have a friend named Bluejay who has a stranglehold on everything I do. For some reason I keep making ~~stupid~~ bets with her in hopes of some day winning. It's like a strange addiction I can't shake." -GuildedThorn
+I'm KingRainbow44, although I also go by *Magix* on some platforms.\
+I mainly work in **Java** and **TypeScript**, although I also do work in other languages.
 
 <img align="right" src="https://lanyard.cnrad.dev/api/252090676068614145" alt="Discord Status">
 
@@ -21,6 +18,7 @@ I also ~~simp~~ talk to Bluejay way too much, she's a cutie.
 - Backend Development
   - Database Infrastructure
   - RESTful APIs
+  - Internal Networking
 
-### Bluejay > Everything
-It goes without saying.
+## Lumine Supremacy
+also love you kimi
