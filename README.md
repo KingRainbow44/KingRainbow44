@@ -2,7 +2,7 @@
 I'm KingRainbow44, although I also go by *Magix* on some platforms.\
 I mainly work in **Java** and **TypeScript**, although I also do work in other languages.
 
-<img align="right" src="https://lanyard.cnrad.dev/api/252090676068614145" alt="Discord Status">
+<img align="right" src="https://lanyard.cnrad.dev/api/252090676068614145?idleMessage=Possibly%20writing%20code..." alt="Discord Status">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KingRainbow44&theme=darcula&show_icons=true&count_private=true">
 
