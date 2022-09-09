@@ -9,6 +9,7 @@ I mainly work in **Java** and **TypeScript**, although I also do work in other l
 ## Contact Me
 - [Twitter](https://twitter.com/KingRainbow44)
 - [YouTube](https://www.youtube.com/channel/UC9k7NjyMW9VCsQFPzZoyMaQ)
+- [Discord](https://discord.com/users/252090676068614145)
 
 ## Experience
 - Programming Languages
