@@ -22,4 +22,3 @@ I mainly work in **Java** and **TypeScript**, although I also do work in other l
   - Internal Networking
 
 ## Lumine Supremacy
-also love you kimi
